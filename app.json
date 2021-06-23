@@ -9,5 +9,3 @@
     "heroku-postgresql"
   ]
 }
-
-// https://heroku.com/deploy?template=https://github.com/rhoff-caligula/intro-to-heroku
